@@ -1,0 +1,8 @@
+opencv-python
+streamlit
+cvzone
+numpy
+pyautogui
+cvzone
+mediapipe
+tensorflow
